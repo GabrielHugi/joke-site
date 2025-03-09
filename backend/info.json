@@ -4,5 +4,36 @@
             "name": "elon musk",
             "password": "skibidi"
         }
-    ]
+    ],
+    "jwt": {
+        "key": "V3bOap9gDUvoxYVm2cNU92y6aKJG2g43MiUgDaq9OWFwIUetX3gFG1KtOuKd"
+    },
+    "anomalies": 
+        [
+            {
+                "name": "joe biden",
+                "description": "old, born in 300 bc",
+                "specialcontainmentprocedures": "subject should be contained within a white house thats more of a mansion than a house and should not be allowed to walk up any stairs at any moment otherwise he may fall"
+            },
+            {
+                "name": "t-rex",
+                "description": "big dinousaur that is scary. It will probably eat you",
+                "specialcontainmentprocedures": "subject should probably not be brought to the present through the use of time machines, but if it so happens to be funny enough that someone does it then the t-rex should probably be kept underwater so theres no chance he's escaping"
+            },
+            {
+                "name": "sigma boy",
+                "description": "music that removes 0.3 iq points from the listener for each minute spent listening",
+                "specialcontainmentprocedures": "all digital copies should be deleted as soon as possible (preferably before they are uploaded) and the origin of such uploads shall be traced and removed from anywhere they may be stored. all agents dispatched to deal with this anomalie should wear full hearing nulification devices"
+            }, 
+            {
+                "name": "chat gpt",
+                "description": "helps you cheat in tests and exams. is kind of stupid",
+                "specialcontainmentprocedures": "Dont listen to what he is saying. If you feel anyone you know may be under the influence of chat gpt, contact us and we will dispatch agents to administer anti-chatgpt vaccines"
+            },
+            {
+                "name": "garfield",
+                "description": "fat cat that like eats and sleeping and is a little bastard towards his owner whsoe name i forgot because no one cares about his owner",
+                "specialcontainmentprocedures": "dont let him eat too much so he doesn't get too fat and crush earth. he will try (and succeed) to eat non organic substances if you dont give him any organic substances to eat so that strategy doesn't work, instead give him food like lettuce that has low calories and high volume or other water heavy foods with low calories"
+            }
+        ]
 }

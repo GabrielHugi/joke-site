@@ -9,10 +9,10 @@
   display: flex;
   flex-direction: column;
   justify-items: center;
-  min-height: 100svh;
+  min-height: 94svh;
   padding: 20px;
   width: 100svw;
-  height: 100svh;
+  height: 94svh;
   font-family: var(--font-geist-sans);
   background-image: url("../../public/stupidaaahbackground.jpg");
   background-size: 100%;

@@ -1,6 +1,6 @@
-.header {
+.footer {
     background-image: linear-gradient(#f5fcfe, #c1dee7);
-    height: 6svh;
+    height: 56px;
     display: flex;
     flex-direction: row;
     border-style: solid;
@@ -8,16 +8,14 @@
     border-width: 2px;
 }
 
-.header div {
-    border-style: solid;
-    border-color: black;
-    border-width: 0px;
-    border-right-width: 2px;
-    padding: 2px;
+.footer div {
+    height: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 @media (prefers-color-scheme: dark) {
-    .header {
+    .footer {
         background-image: linear-gradient(#00171e, #003d4f);
     }
 }

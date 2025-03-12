@@ -4,6 +4,7 @@ import styles from "./page.module.css";
 import {useState, useEffect} from 'react';
 import axios from 'axios';
 import Header from "../../components/header/page.js"
+import Footer from '../../components/footer/page.js';
 
 let once = true
 export default function Info() {
@@ -49,6 +50,7 @@ export default function Info() {
         ))}
       </div>
     </div>
+    <Footer/>
     </>
   );
 }

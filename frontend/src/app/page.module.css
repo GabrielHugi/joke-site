@@ -87,7 +87,7 @@ a.secondary {
   margin-top: 5%;
   height: 10%;
   font-size: 30pt;
-  background-image: linear-gradient(45deg, #00c579, #00b5c5);
+  background-image: linear-gradient(45deg, #ac0606, #c56600);
   border-color: black;
 }
 
@@ -174,5 +174,8 @@ a.secondary {
 @media (prefers-color-scheme: dark) {
   .logo {
     filter: invert();
+  }
+  .page button {
+    background-image: linear-gradient(45deg, #3b0784, #210fc0);
   }
 }

@@ -5,6 +5,7 @@ import styles from "./page.module.css";
 import {useEffect, useState} from 'react';
 import axios from 'axios';
 import Header from '../components/header/page.js';
+import Footer from '../components/footer/page.js';
 
 export default function Home() {
   const [visible, setVisible] = useState([false, true]);
@@ -48,6 +49,7 @@ export default function Home() {
       </form>
       <button style={{"visibility": visible[1] ? "visible":"hidden"}} onClick={() => {showForm()}}>Insert your credentials agent</button>
     </div>
+    <Footer/>
     </>
   );
 }

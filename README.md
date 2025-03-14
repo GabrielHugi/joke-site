@@ -1,6 +1,6 @@
 # What is this?
 
-A simple website with a (will be better implemented later) login system and some internet culture but in a scp style of writing
+A simple website made using the Next JS framework with a (will be better implemented later) login system and some internet culture but in a scp style of writing
 
 # How to download and run this
 ## Download:

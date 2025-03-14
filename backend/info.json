@@ -3,6 +3,14 @@
         {
             "name": "elon musk",
             "password": "skibidi"
+        },
+        { 
+            "name": "joe trump",
+            "password": "password"
+        },
+        {
+            "name": "sigma",
+            "password": "sigma"
         }
     ],
     "jwt": {
@@ -34,6 +42,10 @@
                 "name": "garfield",
                 "description": "fat cat that like eats and sleeping and is a little bastard towards his owner whsoe name i forgot because no one cares about his owner",
                 "specialcontainmentprocedures": "dont let him eat too much so he doesn't get too fat and crush earth. he will try (and succeed) to eat non organic substances if you dont give him any organic substances to eat so that strategy doesn't work, instead give him food like lettuce that has low calories and high volume or other water heavy foods with low calories"
+            },
+            {
+                "name": "ohio",
+                "description": "medieval age but the people have guns and rap battles and giraffes and have insane ammounts insanity. Do not enter the borders of this place. If you accidentaly get inside ohio, keep your head low and keep your chill and just walk out. Edit: do NOT walk out in a straight line, they will notice it."
             }
         ]
 }

@@ -20,10 +20,10 @@ async function handleLogin(req, res) {
   if (user) {
     console.log("Loged in");
     const token = jwt.sign({name: name}, info.jwt.key, { expiresIn: '48h' });
-    res.status(201).json({success: true, token: token});
+    return res.status(201).json({success: true, token: token});
   } else {
     console.log("Error")
-    res.status(404).json({success: false});
+    return res.status(404).json({success: false});
   }
 }
 

@@ -7,6 +7,10 @@ A simple website with a (will be better implemented later) login system and some
 ```console
 git clone https://github.com/GabrielHugi/joke-site
 cd joke-site
+cd frontend
+npm i
+cd ..
+cd backend
 npm i
 ```
 ## Run (from joke-site folder):
